@@ -1,0 +1,19 @@
+<complex-example attribute="some attribute">
+	<number-1>1</number-1>
+	<number-3>3</number-3>
+	<transientString>
+		Some transient string that will not be loaded.
+	</transientString>
+
+	<data>A</data>
+	<data>B</data>
+	<data>C</data>
+	<data>D</data>
+	<data>E</data>
+
+	<book>
+		<title>The Lord of The Rings</title>
+		<author>J.R.R. Tolkien</author>
+		<pages-count>1024</pages-count>
+	</book>
+</complex-example>
